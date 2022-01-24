@@ -1,0 +1,1 @@
+web gunicorn GUAtask.wsgi --log-file -
